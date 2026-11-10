@@ -64,10 +64,17 @@ GadgetGalaxyApp/
 * Design a graphical user interface using Java Swing.
 * Improve Java programming and software development skills.
 
-👨‍💻 Developer : Ragavan Janoyan
-
-Computing and Software Engineering Student
-ICBT Campus, Sri Lanka
-
 Project: GadgetGalaxy
 Language: Java
+
+
+👨‍💻 Developer
+
+Ragavan Janoyan
+
+Computing & Software Engineering Student
+ICBT Campus, Sri Lanka
+
+GitHub: https://github.com/ragavan-janoyan
+
+⭐ Thank you for visiting my GadgetGalaxy project!
