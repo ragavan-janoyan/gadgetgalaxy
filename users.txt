@@ -1,0 +1,3 @@
+admin,admin123,MANAGER
+sales1,sales123,Sales Rep
+sales2,sales1234,Sales Rep

@@ -1,0 +1,10 @@
+1,Lenovo,Think Pad,Laptop,16GB RAM and 512GB ssd
+16 inch display,1200.0
+2,Samsung,S25 ultra,Phone,12GB RAM and 512GB memory
+Black,900.0
+4,Apple,Air M3,Ipad,16GB RAM and 512GB ssd
+13 inch display
+Gray,1100.0
+5,Apple,17 Pro Max,Phone,12GB RAM and 256GB Memory
+Orange
+Gray,1800.0
